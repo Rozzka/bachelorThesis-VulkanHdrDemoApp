@@ -1,5 +1,6 @@
 # bachelorThesis-VulkanHdrDemoApp
 Bachelor thesis about HDR rendering techniques implemented in Vulkan API in C++.
+Created on Faculty of Information Technology VUT Brno.
 
 Main repository on school page: https://github.com/Vulkan-FIT/vulkan-HdrDemoApp
 
